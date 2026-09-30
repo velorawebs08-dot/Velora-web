@@ -1,0 +1,6 @@
+{
+  "name": "Tripto Travels",
+  "description": "Dream. Explore. Discover. Modern curated adventure tours, fixed group departures, and immersive travel experiences styled with thrilling wanderlust.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
